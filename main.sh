@@ -2,9 +2,3 @@
 
 
 
-main(){
-  echo " salut"
-
-
-}
-main
